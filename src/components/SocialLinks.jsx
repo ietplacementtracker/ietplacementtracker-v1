@@ -23,7 +23,8 @@ const SocialLinks = () => {
             <Github size={24} />
           </motion.a> */}/*
     </>
-  )*/
+  )
 }
 
 export default SocialLinks
+*/
