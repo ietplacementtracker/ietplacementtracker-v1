@@ -1,4 +1,4 @@
-/* import { Github, Globe, Linkedin, Twitter } from 'lucide-react'
+ import { Github, Globe, Linkedin, Twitter } from 'lucide-react'
 import { motion } from 'framer-motion'
 
 const SocialLinks = () => {
@@ -21,7 +21,7 @@ const SocialLinks = () => {
             className="text-white hover:text-blue-100"
           >
             <Github size={24} />
-          </motion.a> */}/*
+          </motion.a> */}
     </>
   )
 }
